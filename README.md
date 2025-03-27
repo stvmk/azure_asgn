@@ -1,5 +1,7 @@
 # Sentiment Analysis on IMDB Reviews using Azure 
 
+
+
 ## Project Overview
 This project performs **Sentiment Analysis** on IMDB movie reviews using **Azure SQL Database**, **Python (NLTK, Pandas, SQLAlchemy)**, and **Azure Data Factory (ADF)** for data ingestion. The results are then stored in **Azure SQL** for visualization in **Power BI or Tableau**.
 
